@@ -9,4 +9,3 @@ fuzzywuzzy
 python-Levenshtein
 gitpython
 requests
-groq
