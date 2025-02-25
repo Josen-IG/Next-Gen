@@ -2,11 +2,7 @@ streamlit
 pandas
 numpy
 matplotlib
-seaborn
-scikit-learn
+fuzzywuzzy[speedup]
 Pillow
-fuzzywuzzy
-python-Levenshtein
-gitpython
-requests
-groq
+scikit-learn
+seaborn

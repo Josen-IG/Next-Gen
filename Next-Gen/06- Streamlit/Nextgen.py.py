@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 from fuzzywuzzy import process
 import groq
+import os
+os.system("pip install groq")
+import groq
 from PIL import Image
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
